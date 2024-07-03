@@ -1,0 +1,1 @@
+const ip = 'http://10.126.25.157:8080/sistem_akademik';
